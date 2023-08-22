@@ -1,0 +1,31 @@
+{
+  "deviceInfoVersion": 3,
+  "data": {
+    "display": "TP1A.220624.014.G9910ZCS5EWG1",
+    "product": "o1qzcx",
+    "device": "o1q",
+    "board": "lahaina",
+    "brand": "samsung",
+    "model": "SM-G9910",
+    "bootloader": "G9910ZCS5EWG1",
+    "fingerprint": "samsung/o1qzcx/o1q:13/TP1A.220624.014/G9910ZCS5EWG1:user/release-keys",
+    "bootId": "FA1D7BFF-BFCF-0EAE-B518-63097C45C524",
+    "procVersion": "Linux version 3.0.31-wYYus5YJ (android-build@xxx.xxx.xxx.xxx.com)",
+    "baseBand": "47393931305a435335455747312c47393931305a43533545574731",
+    "version": {
+      "incremental": "G9910ZCS5EWG1",
+      "release": "13",
+      "codename": "REL",
+      "sdk": 33
+    },
+    "simInfo": "T-Mobile",
+    "osType": "android",
+    "macAddress": "02:00:00:00:00:00",
+    "wifiBSSID": "02:00:00:00:00:00",
+    "wifiSSID": "<unknown ssid>",
+    "imsiMd5": "140b844d86e8f7ac37ca9c8e37d9d55e",
+    "imei": "869523507409580",
+    "apn": "wifi",
+    "androidId": "9f3edfd7639bb1b6"
+  }
+}

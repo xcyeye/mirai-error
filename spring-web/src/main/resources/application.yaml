@@ -1,0 +1,13 @@
+xyz:
+  xcye:
+    mirai:
+      bot-info-list:
+        - '123456789':
+            cache-dir: /monitor/qq/123456789/cache
+            working-dir: /monitor/qq/123456789
+            protocol: android_watch
+            heartbeat-strategy: stat_hb
+            login-cache-enabled: true
+            device-info-path: /mirai/123456789-device.json
+            password: Xc123456789
+            authorization-type: qr_code
